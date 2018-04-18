@@ -1,0 +1,1 @@
+These are my course notes for the [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2018/course/) course on [edX](https://www.edx.org/).
